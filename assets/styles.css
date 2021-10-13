@@ -1,48 +1,65 @@
-#main{
-    padding:0 !important;
-   
+#main {
+    padding: 0 !important;
 }
+
 body {
     background: #525c66 !important;
 }
-#img-caption{
+
+#img-caption {
     color: #525c66;
     padding: 10px;
     font-weight: 700;
 }
-.jumbotron{ margin-bottom: 0 !important;
+
+.jumbotron {
+    margin-bottom: 0 !important;
 }
+
 .tribute {
     background: #f1f1f1;
     padding: 25px;
 }
+
 ul {
     list-style-type: none;
     margin: auto;
 }
+
 li {
     line-height: 1.5;
-    margin:10px;
+    margin: 10px;
 }
+
 span.points {
     padding: 20px;
     padding-left: 10px;
     margin-left: 10px;
     font-size: 2rem;
 }
+
 time {
     font-size: 2rem;
     font-weight: 900;
+    color: #9cc2e6;
 }
-div{
-    color:#fdffe0;
+
+div {
+    color: #fdffe0;
 }
+
 h4 {
     font-size: 2.5rem !important;
     font-weight: 900!important;
     color: white !important;
 }
-p{
+
+p {
     font-size: 2rem !important;
-    color:white;
+    color: white;
+}
+
+section {
+    font-size: 2rem !important;
+    font-weight: 900!important;
 }
